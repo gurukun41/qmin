@@ -1,3 +1,14 @@
+# traQ Lite
+
+低速なネットワーク環境向けの、非公式な軽量traQクライアントです。
+
+このプロジェクトは
+[traPtitech/traQ_S-UI](https://github.com/traPtitech/traQ_S-UI)
+のコミット `26f0c60f9d82ac9d3b90eb0d7e8254d747f572e8` を基に開発しています。
+
+traPtitechによる公式クライアントではありません。
+ライセンスについては `LICENSE` を参照してください。
+
 # traQ-S_UI - traP Internal Messenger Application
 
 [![GitHub release](https://img.shields.io/github/release/traPtitech/traQ_S-UI.svg)](https://GitHub.com/traPtitech/traQ_S-UI/releases/)
