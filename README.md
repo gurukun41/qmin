@@ -2,36 +2,25 @@
 
 低速なネットワーク環境向けの、非公式な軽量traQクライアントです。
 
+> [!NOTE]
+> 公式クライアントではありません。
+
+## Status
+
+現在は開発初期段階です。
+
+## Upstream
+
 このプロジェクトは
 [traPtitech/traQ_S-UI](https://github.com/traPtitech/traQ_S-UI)
-のコミット `26f0c60f9d82ac9d3b90eb0d7e8254d747f572e8` を基に開発しています。
+のコミット
+[`26f0c60f9d82ac9d3b90eb0d7e8254d747f572e8`](https://github.com/traPtitech/traQ_S-UI/commit/26f0c60f9d82ac9d3b90eb0d7e8254d747f572e8)
+を基に開発しています。
 
-traPtitechによる公式クライアントではありません。
-ライセンスについては `LICENSE` を参照してください。
-
-# traQ-S_UI - traP Internal Messenger Application
-
-[![GitHub release](https://img.shields.io/github/release/traPtitech/traQ_S-UI.svg)](https://GitHub.com/traPtitech/traQ_S-UI/releases/)
-![CI](https://github.com/traPtitech/traQ_S-UI/workflows/CI/badge.svg)
-![release](https://github.com/traPtitech/traQ_S-UI/workflows/release/badge.svg)
-[![codecov](https://codecov.io/gh/traPtitech/traQ_S-UI/branch/master/graph/badge.svg)](https://codecov.io/gh/traPtitech/traQ_S-UI)
-
-- Backend: [traQ](https://github.com/traPtitech/traQ)
-- Frontend: this repository
-
-traQ (pronounced "track") is a messenger application built for [Digital Creators Club traP](https://trap.jp).
-traQ allows ease communication among team members by organizing contexts into tree-structured channels.
-
-![traQ](https://user-images.githubusercontent.com/49056869/115141831-5a376980-a079-11eb-93c1-7016bc2097d0.png)
-
-## Deployment
-
-If you want to deploy your own instance of traQ, then follow the instructions in backend [deployment.md](https://github.com/traPtitech/traQ/blob/master/docs/deployment.md).
-
-## Development
-
-If you want to contribute to traQ (Frontend), then follow the instructions in [development.md](./docs/development.md).
+リポジトリ名および開発コードネームは `qmin` です。
 
 ## License
 
-Code licensed under [the MIT License](https://github.com/traPtitech/traQ_S-UI/blob/master/LICENSE).
+[MIT License](./LICENSE)
+
+元プロジェクトの著作権表示およびライセンスを継承しています。
